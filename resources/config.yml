@@ -1,0 +1,7 @@
+message: "Item in cooldown."
+
+consumables:
+  "322:0": 30
+
+throwables:
+  "minecraft:ender_pearl": 15

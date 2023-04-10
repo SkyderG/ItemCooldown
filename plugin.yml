@@ -1,0 +1,5 @@
+name: "ItemCooldown"
+api: [4.0.0]
+main: ItemCooldown\Loader
+version: 0.0.1
+author: "Skyder"
